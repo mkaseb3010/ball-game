@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--Added all the strings needed in our addtional content we have added in other XML filed-->
+    <string name="app_name">Tiltball Game</string>
+    <string name="setuptitletext">Tiltball Game</string>
+    <string name="paramlabelorderofcontroltext">Order of control</string>
+    <string name="paramlabelgaintext">Gain</string>
+    <string name="paramlabelpathwidthtext">Path width</string>
+    <string name="paramlabelpathtypetext">Path type</string>
+    <string name="numberoflapstext">Number of Laps</string>
+    <string name="button01text">OK</string>
+    <string name="button03text">Exit</string>
+
+    <string name="resulttitletext">Results</string>
+    <string name="resultlaps">Laps</string>
+    <string name="resultlaptime">Lap Time</string>
+    <string name="resultwallhits">Wall Hits</string>
+    <string name="resultpathtime">Path Time</string>
+    <string name="resultbuttonsetuptext">Setup</string>
+    <string name="resultexitbuttontext">Exit</string>
+
+</resources>
